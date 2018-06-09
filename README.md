@@ -1,6 +1,8 @@
 # tf-idf
 
-Descrição: Projeto da disciplina de Processamento de Linguagem Natural
+Descrição: Projeto da disciplina de Processamento de Linguagem Natural 
+
+Linguagem: Java e Python
 
 Apresentação: https://docs.google.com/presentation/d/1_eYwN1PozfQW1MeP5Jk4LJwMEilEIB1hdzsmuPXivMw/edit?usp=sharing
 
